@@ -5,3 +5,9 @@
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafb);
 }
+body {
+  color: var(--semi-color-text-0);
+  background-color: var( --semi-color-bg-0);
+  height: 100%;
+  width: 100%;
+}

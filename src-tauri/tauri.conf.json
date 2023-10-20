@@ -21,6 +21,16 @@
         "create": true, 
         "setMaxSize": true,
         "setTitle": false
+      },
+      "app": {
+        "all": true,
+        "hide": true,
+        "show": true
+      },
+      "clipboard": {
+        "all": true,
+        "readText": true,
+        "writeText": true
       }
     },
     "bundle": {
